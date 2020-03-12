@@ -1,0 +1,6 @@
+pl\com\slaw\logger\Event.class
+pl\com\slaw\logger\LogMessagePriority.class
+pl\com\slaw\logger\Logger.class
+pl\com\slaw\main\Test.class
+pl\com\slaw\main\TestThread.class
+pl\com\slaw\logger\logMessageEventDelegate.class
