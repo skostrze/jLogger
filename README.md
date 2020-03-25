@@ -1,2 +1,2 @@
 # jLogger
- Java simple custom logger
+ Clear Java simple custom logger. 
