@@ -1,4 +1,4 @@
 # jLogger
  Clear Java simple custom logger. 
 ## License
-MIT
+[MIT](https://github.com/facebook/react/blob/master/LICENSE)
